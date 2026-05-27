@@ -102,4 +102,4 @@ This project showcases how web applications can be effectively deployed and scal
 ## 🔗 Demo and Source Code
 
 - 🎥 [Demo Video]:- https://drive.google.com/file/d/1CKhOisR3sA38FpDQ7WksEAjYjvD2R_FK/view?usp=drive_link 
-- 🧾 [GitHub Repository]:- 
+- 🧾 [GitHub Repository]:- https://github.com/sarang0226/aws-hosted-virtual-classroom-and-learning-platform.git 
